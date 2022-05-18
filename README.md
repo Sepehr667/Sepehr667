@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sepehr667
 - 👀 I’m interested in programming and security
-- 🌱 I’m currently learning MCSE course
+- 🌱 I’m learning MCSE & Python course
